@@ -4,3 +4,7 @@ Cat
 Dog
 Bat
 
+new function
+
+Horse 
+
