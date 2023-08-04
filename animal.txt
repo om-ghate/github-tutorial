@@ -3,8 +3,5 @@ Tiger
 Cat
 Dog
 Bat
-
-new function
-
 Horse 
 
